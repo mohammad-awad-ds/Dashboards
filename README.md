@@ -19,10 +19,10 @@ The dashboards offer data-driven insights into sales, profits, and customer demo
 ### Dashboards  
 
 #### 1. Bird's-Eye View  
-[![Bird's-Eye View](images/birds-eye-view.png)](https://lookerstudio.google.com/u/0/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b/page/9MLbE)  
+[![Bird's-Eye View](https://github.com/mohammad-awad-ds/Dashboards/blob/main/images/birds-eye-view.PNG)](https://lookerstudio.google.com/u/0/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b/page/9MLbE)  
 
 #### 2. Detailed View  
-[![Detailed View](images/detailed-view.png)](https://lookerstudio.google.com/u/0/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b/page/p_br6x0kyfod)  
+[![Detailed View](https://github.com/mohammad-awad-ds/Dashboards/blob/main/images/detailed-view.PNG)](https://lookerstudio.google.com/u/0/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b/page/p_br6x0kyfod)  
 
 ### Features  
 - **Interactive Visualizations**: Drill-down capabilities allow users to explore detailed insights.  
